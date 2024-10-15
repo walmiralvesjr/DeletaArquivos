@@ -1,0 +1,14 @@
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\bin\Debug\net8.0\DeletarArquivos.exe
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\bin\Debug\net8.0\DeletarArquivos.deps.json
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\bin\Debug\net8.0\DeletarArquivos.runtimeconfig.json
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\bin\Debug\net8.0\DeletarArquivos.dll
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\bin\Debug\net8.0\DeletarArquivos.pdb
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\DeletarArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\DeletarArquivos.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\DeletarArquivos.AssemblyInfo.cs
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\DeletarArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\DeletarArquivos.dll
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\refint\DeletarArquivos.dll
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\DeletarArquivos.pdb
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\DeletarArquivos.genruntimeconfig.cache
+C:\Users\Junior\source\repos\DeletarArquivos\DeletarArquivos\obj\Debug\net8.0\ref\DeletarArquivos.dll
